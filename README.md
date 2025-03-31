@@ -13,3 +13,9 @@
 4. Done.
 
 ###### Do this everytime you update. It is done to avoid errors.
+
+### Discord Links
+Discord servers the maintainer/author of this mod actively participates.
+
+#### CDDA Modding Community
+* https://discord.gg/PuMsXMPwaU

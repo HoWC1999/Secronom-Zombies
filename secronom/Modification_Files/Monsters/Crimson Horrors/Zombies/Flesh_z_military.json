@@ -145,5 +145,35 @@
     "species": [ "SFLESH" ],
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 }
+  },
+  {
+    "id": "mon_sflesh_zombie_bio_op",
+    "type": "MONSTER",
+    "name": { "str": "zombie bio-operator" },
+    "description": "This armored soldier zombie appears to have been some sort of special forces agent.  Its malfunctioning equipment sends out occasional showers of sparks., What little skin you can see seems to writhe with a life of its own",
+    "copy-from": "mon_zombie_base",
+    "looks_like": "mon_zombie_bio_op",
+    "default_faction": "secro_flesh3",
+    "diff": 10,
+    "hp": 150,
+    "speed": 81,
+    "color": "red_cyan",
+    "melee_skill": 8,
+    "melee_dice": 3,
+    "melee_dice_sides": 6,
+    "melee_damage": [ { "damage_type": "electric", "amount": 4 } ],
+    "bleed_rate": 0.33,
+    "luminance": 4,
+    "special_attacks": [ { "id": "bio_op_takedown", "cooldown": 20 } ],
+    "special_when_hit": [ "ZAPBACK", 75 ],
+    "death_drops": "mon_zombie_bio_op_death_drops",
+    "armor": { "bash": 13, "cut": 18, "bullet": 14, "electric": 3 },
+    "dissect": "dissect_mon_zomborg",
+    "extend": {
+      "species": [ "SFLESH" ],
+      "weakpoint_sets": [ "wps_humanoid_body_armor", "wps_humanoid_open_helmet", "wps_humanoid_gasmask" ],
+      "families": [ "prof_wp_syn_armored" ],
+      "flags": [ "ELECTRIC" ]
+    }
   }
 ]

@@ -3,7 +3,7 @@
     "id": "mon_sflesh_zombie_bio_op",
     "copy-from": "mon_zombie_bio_op",
     "name": { "str": "bio-operator zombie" },
-    "description":"This armored soldier zombie appears to have been some sort of special forces agent.  Its malfunctioning equipment sends out occasional showers of sparks. The creature little visible flesh writhes as if it is alive, and the armor appears to be fused to its body.  It is a miracle that it can still move at all.",
+    "description":"This armored soldier zombie appears to have been some sort of special forces agent.  Its malfunctioning equipment sends out occasional showers of sparks. The creature's little visible flesh writhes as if it is alive, and the armor appears to be fused to its body.  It is a miracle that it can still move at all.",
     "type": "MONSTER",
     "default_faction": "secro_flesh3",
     "species": [ "ZOMBIE", "SFLESH" ],

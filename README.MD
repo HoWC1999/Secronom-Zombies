@@ -1,5 +1,5 @@
 # Secronom-Zombies
-**Axema's GREAT and LEGENDARY mod!My personally maintained and forked version**
+**HoWC99's Attempt to update Secronom to modern versions of CDDA**
 
 ### How to install the mod:
 1. Extract **Secronom-Zombies-master**.

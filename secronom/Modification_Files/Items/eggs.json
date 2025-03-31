@@ -8,10 +8,11 @@
     "comestible_type": "FOOD",
     "symbol": "%",
     "quench": -5,
-    "nutrition": -30,
+    "calories": -30,
     "description": "Dreadful hairy egg. Dare to eat this!",
     "price": "0 cent",
     "material": [ "egg" ],
+    "vitamins": [ [ "calcium", 14 ], [ "iron", 36 ] ],
     "volume": "250 ml",
     "fun": -50
   },

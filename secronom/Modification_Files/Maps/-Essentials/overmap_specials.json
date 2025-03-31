@@ -3,7 +3,7 @@
     "id": "Flesh Forest",
     "locations": [ "forest" ],
     "flags": [ "WILDERNESS" ],
-    "occurrences": [ 0, 0 ],
+    "occurrences": [ 0, 2 ],
     "overmaps": [
       { "overmap": "flesh_forest_3_north", "point": [ 0, 0, 0 ] },
       { "overmap": "flesh_forest_2_north", "point": [ 1, 0, 0 ] },
@@ -217,7 +217,7 @@
     "id": "Flesh Island",
     "locations": [ "lake_surface" ],
     "flags": [ "LAKE" ],
-    "occurrences": [ 0, 0 ],
+    "occurrences": [ 0, 2 ],
     "overmaps": [
       { "overmap": "flesh_forest_3_north", "point": [ 0, 0, 0 ] },
       { "overmap": "flesh_forest_2_north", "point": [ 1, 0, 0 ] },
@@ -421,13 +421,13 @@
       { "point": [ 0, 0, -2 ], "overmap": "flesh_cavern_boss" }
     ],
     "locations": [ "forest" ],
-    "occurrences": [ 0, 0 ],
+    "occurrences": [ 0, 2 ],
     "flags": [ "WILDERNESS" ]
   },
   {
     "id": "Flesh City 1",
     "locations": [ "field" ],
-    "occurrences": [ 0, 0 ],
+    "occurrences": [ 0, 3 ],
     "spawns": { "group": "GROUP_FLESH_CITY", "population": [ 750, 1250 ], "radius": [ 2, 5 ] },
     "rotate": false,
     "//": "Flesh City overmap specials must not rotate, otherwise a horrible bug will appear (i.e jumbled road symbols but correct layouts).",
@@ -490,7 +490,7 @@
   {
     "id": "Flesh City 2",
     "locations": [ "field" ],
-    "occurrences": [ 0, 0 ],
+    "occurrences": [ 0, 2 ],
     "spawns": { "group": "GROUP_FLESH_CITY", "population": [ 750, 1250 ], "radius": [ 2, 5 ] },
     "rotate": false,
     "overmaps": [

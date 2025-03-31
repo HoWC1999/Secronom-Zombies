@@ -345,10 +345,10 @@
           "has": "WORN",
           "condition": "ALWAYS",
           "values": [
-            { "value": "ARMOR_BIO", "add": -1 },
             { "value": "MAX_HP", "multiply": 0.05 },
             { "value": "METABOLISM", "multiply": -0.2 }
           ],
+          "incoming_damage_mod": [ {"type": "biological", "add": -1 } ],
           "hit_you_effect": [
             {
               "id": "mon_flesh_infect_target",

@@ -7,10 +7,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_grouse",
@@ -20,10 +18,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_crow",
@@ -33,10 +29,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_raven",
@@ -46,10 +40,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_bluejay",
@@ -59,10 +51,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_cardinal",
@@ -72,10 +62,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_robin",
@@ -85,10 +73,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_sparrow",
@@ -98,10 +84,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_duck",
@@ -111,10 +95,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_goose_canadian",
@@ -124,10 +106,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_turkey",
@@ -137,10 +117,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_pheasant",
@@ -150,10 +128,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": [ "SFLESH" ],
+    "flags": [ "NO_BREED" ]
   },
   {
     "id": "mon_sflesh_generic_chick",
@@ -163,11 +139,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_grouse_chick",
@@ -177,11 +150,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_crow_chick",
@@ -191,11 +161,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_raven_chick",
@@ -205,11 +172,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_bluejay_chick",
@@ -219,11 +183,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_cardinal_chick",
@@ -233,11 +194,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_robin_chick",
@@ -247,11 +205,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_sparrow_chick",
@@ -261,11 +216,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_duck_chick",
@@ -275,11 +227,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_goose_canadian_chick",
@@ -289,11 +238,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_turkey_chick",
@@ -303,11 +249,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_pheasant_chick",
@@ -317,11 +260,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_goose_chick",
@@ -331,25 +271,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
-  },
-  {
-    "id": "mon_sflesh_goose_golden_chick",
-    "copy-from": "mon_goose_golden_chick",
-    "type": "MONSTER",
-    "default_faction": "secro_flesh3",
-    "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
-    "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
-    "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_hummingbird_chick",
@@ -359,11 +282,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_woodpecker_chick",
@@ -373,11 +293,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_coot_chick",
@@ -387,11 +304,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_cormorant_chick",
@@ -401,11 +315,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_moorhen_chick",
@@ -415,11 +326,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_grebe_chick",
@@ -429,11 +337,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_crow_mutant_small",
@@ -443,11 +348,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "upgrades": {  },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_crow_mutant",
@@ -457,10 +359,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_pigeon",
@@ -470,10 +370,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_goose",
@@ -483,23 +381,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
-  },
-  {
-    "id": "mon_sflesh_goose_golden",
-    "copy-from": "mon_goose_golden",
-    "type": "MONSTER",
-    "default_faction": "secro_flesh3",
-    "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
-    "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
-    "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_hummingbird",
@@ -509,10 +392,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_woodpecker",
@@ -522,10 +403,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_coot",
@@ -535,10 +414,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_cormorant",
@@ -548,10 +425,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_moorhen",
@@ -561,10 +436,8 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   },
   {
     "id": "mon_sflesh_grebe",
@@ -574,9 +447,7 @@
     "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
-    "extend": { "species": [ "SFLESH" ], "flags": [ "NO_BREED" ] },
-    "delete": { "species": [ "BIRD" ], "flags": [ "ANIMAL" ] },
-    "fear_triggers": [  ],
-    "placate_triggers": [  ]
+    "species": ["SFLESH"],
+    "flags": ["NO_BREED"]
   }
 ]

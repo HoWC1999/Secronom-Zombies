@@ -11,7 +11,7 @@
     "locations": [ "land" ],
     "city_distance": [ 7, -1 ],
     "city_sizes": [ 2, 10 ],
-    "occurrences": [ 0, 0 ]
+    "occurrences": [ 0, 4 ]
   },
   {
     "type": "overmap_special",
@@ -26,7 +26,7 @@
     "locations": [ "land" ],
     "city_distance": [ 15, -1 ],
     "city_sizes": [ 2, 10 ],
-    "occurrences": [ 0, 0 ]
+    "occurrences": [ 0, 2 ]
   },
   {
     "type": "overmap_special",

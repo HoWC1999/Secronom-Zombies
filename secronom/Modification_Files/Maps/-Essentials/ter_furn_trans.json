@@ -210,7 +210,7 @@
         "result": [ [ "t_gates_control_concrete", 5 ], "t_secro_gates_control_concrete_flesh" ],
         "valid_terrain": [ "t_gates_control_concrete" ]
       },
-      { "result": [ [ "t_atm", 5 ], "t_secro_atm_flesh" ], "valid_terrain": [ "t_atm" ] },
+      { "result": [ [ "f_atm", 5 ], "f_secro_atm_flesh" ], "valid_terrain": [ "f_atm" ] },
       {
         "result": [ [ "t_window_stained_green", 5 ], "t_secro_window_stained_green_flesh" ],
         "valid_terrain": [ "t_window_stained_green" ]
@@ -320,7 +320,7 @@
         "result": [ "t_gates_control_concrete", "t_secro_gates_control_concrete_flesh" ],
         "valid_terrain": [ "t_gates_control_concrete" ]
       },
-      { "result": [ "t_atm", "t_secro_atm_flesh" ], "valid_terrain": [ "t_atm" ] },
+      { "result": [ "f_atm", "f_secro_atm_flesh" ], "valid_terrain": [ "f_atm" ] },
       {
         "result": [ "t_window_stained_green", "t_secro_window_stained_green_flesh" ],
         "valid_terrain": [ "t_window_stained_green" ]
@@ -462,7 +462,7 @@
         "result": [ [ "t_gates_control_concrete", 5 ], "t_secro_gates_control_concrete_flesh" ],
         "valid_terrain": [ "t_gates_control_concrete" ]
       },
-      { "result": [ [ "t_atm", 5 ], "t_secro_atm_flesh" ], "valid_terrain": [ "t_atm" ] },
+      { "result": [ [ "f_atm", 5 ], "f_secro_atm_flesh" ], "valid_terrain": [ "f_atm" ] },
       {
         "result": [ [ "t_window_stained_green", 5 ], "t_secro_window_stained_green_flesh" ],
         "valid_terrain": [ "t_window_stained_green" ]

@@ -61,7 +61,7 @@
     ],
     "encumbrance_always": [ [ "hand_l", 20 ], [ "hand_r", 20 ] ],
     "encumbrance_covered": [ [ "hand_l", 30 ], [ "hand_r", 30 ] ],
-    "enchantments": [ { "values": [ { "value": "ITEM_DAMAGE_BASH", "add": 2 }]}],
+    "enchantments": [ { "melee_damage_bonus": [ { "type": "bash", "add": 2 }]}],
     "attacks": [
       {
         "attack_text_u": "You slap %s with your tendrils",
@@ -117,9 +117,10 @@
     "enchantments": [
       {
         "values": [
-          { "value": "DEXTERITY", "add": -2 },
-          { "value": "ITEM_DAMAGE_BASH", "add": 5.5}
-        ]
+          { "value": "DEXTERITY", "add": -2 } ],
+          "melee_damage_bonus": [
+            { "type": "bash", "add": 5.5 }
+          ]
       }
     ],
     "category": [ "SECRONOM_EX" ]
@@ -197,9 +198,10 @@
       {
         "values": [
           { "value": "DEXTERITY", "add": 1 },
-          { "value": "ATTACK_SPEED", "multiply": 0.05 },
-          { "value": "ITEM_DAMAGE_BASH", "add": 1.5 }
-        ]
+          { "value": "ATTACK_SPEED", "multiply": 0.05 } ],
+          "melee_damage_bonus": [
+            { "type": "bash", "add": 1.5 }
+          ]
       }
     ],
     "category": [ "SECRONOM_EX" ]
@@ -220,9 +222,10 @@
     "enchantments": [
       {
         "values": [
-          { "value": "STRENGTH", "add": 2 },
-          { "value": "ITEM_DAMAGE_BASH", "add": 4 }
-        ]
+          { "value": "STRENGTH", "add": 2 } ],
+          "melee_damage_bonus": [
+            { "type": "bash", "add": 4 }
+          ]
       }
     ],
     "category": [ "SECRONOM_EX" ]
@@ -269,7 +272,7 @@
       "SECRO_BLADE_SERRATED_THRESHOLD"
     ],
     "encumbrance_always": [ [ "hand_l", 100 ] ],
-    "enchantments": [ { "values": [ { "value": "ITEM_DAMAGE_BASH", "add": 6 } ] } ],
+    "enchantments": [ { "melee_damage_bonus": [ { "type": "bash", "add": 6 } ] } ],
     "armor": [ { "parts": "arm_l", "bash": 10, "cut": 10, "stab": 10 } ],
     "category": [ "SECRONOM_EX" ]
   },
@@ -292,8 +295,9 @@
     "enchantments": [
       {
         "values": [
-          { "value": "ATTACK_SPEED", "multiply": 0.1 },
-          { "value": "ITEM_DAMAGE_CUT", "add": 8 }
+          { "value": "ATTACK_SPEED", "multiply": 0.1 } ],
+          "melee_damage_bonus" : [
+          { "type": "cut", "add": 8 }
         ]
       }
     ],
@@ -318,9 +322,10 @@
     "enchantments": [
       {
         "values": [
-          { "value": "ATTACK_SPEED", "multiply": -0.05 },
-          { "value": "ITEM_DAMAGE_BASH", "add": 5.5 },
-          { "value": "ITEM_DAMAGE_CUT", "add": 5.5 }
+          { "value": "ATTACK_SPEED", "multiply": -0.05 } ],
+          "melee_damage_bonus" :[
+          { "type": "bash", "add": 5.5 },
+          { "type": "cut", "add": 5.5 }
         ]
       }
     ],
@@ -1142,5 +1147,15 @@
       [ "secro_power_armor_mechlink", 1 ],
       [ "secro_power_armor_fleshmend", 1 ]
     ]
+  },
+  {
+  "type": "mutation",
+  "id": "SECRO_BIONIC_FLESH_CORE",
+  "name": { "str": "Flesh Core" },
+  "valid": false,
+  "purifiable": false,
+  "points": 0,
+  "description": "WIP"
+
   }
 ]

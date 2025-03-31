@@ -8,7 +8,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_grouse",
@@ -19,7 +21,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_crow",
@@ -30,7 +34,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_raven",
@@ -41,7 +47,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_bluejay",
@@ -52,7 +60,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_cardinal",
@@ -63,7 +73,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_robin",
@@ -74,7 +86,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_sparrow",
@@ -85,7 +99,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_duck",
@@ -96,7 +112,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_goose_canadian",
@@ -107,7 +125,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_turkey",
@@ -118,7 +138,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_pheasant",
@@ -129,7 +151,9 @@
     "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
     "regen_morale": true,
     "species": [ "SFLESH" ],
-    "flags": [ "NO_BREED" ]
+    "flags": [ "NO_BREED" ],
+    "fear_triggers": [ "FIRE" ],
+    "placate_triggers": []
   },
   {
     "id": "mon_sflesh_generic_chick",

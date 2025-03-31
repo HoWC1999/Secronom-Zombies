@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mon_sflesh_zombie_bio_op",
+    "copy-from": "mon_zombie_bio_op",
+    "name": { "str": "bio-operator zombie" },
+    "description":"This armored soldier zombie appears to have been some sort of special forces agent.  Its malfunctioning equipment sends out occasional showers of sparks. The creature little visible flesh writhes as if it is alive, and the armor appears to be fused to its body.  It is a miracle that it can still move at all.",
+    "type": "MONSTER",
+    "default_faction": "secro_flesh3",
+    "species": [ "ZOMBIE", "SFLESH" ],
+    "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
+    "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 }
+  },
+  {
+    "id": "mon_sflesh_zpider_mass",
+    "copy-from": "mon_zpider_mass",
+    "name": { "str": "spider mass" },
+    "description": "Thousands, maybe millions of strangely meaty spiders piled up high, each slowly oozing a vile fleshy substance, struggling to keep the fetid mass together and moving.",
+    "type": "MONSTER",
+    "default_faction": "secro_flesh3",
+    "relative": { "melee_skill": 1, "armor": { "bash": 3 } },
+    "proportional": { "hp": 1.25, "speed": 0.85, "bleed_rate": 0.33 },
+    "extend": { "species": [ "SFLESH" ] }
+  }
+]

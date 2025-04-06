@@ -1,5 +1,6 @@
 # Secronom-Zombies
-**HoWC99's Attempt to update Secronom to modern versions of CDDA**
+**HoWC99's Attempt to update Axdma's exemplary mod, Secronom to modern versions of CDDA**
+Forked and maintained with explicit permission from Axema and Kenan.
 
 ### How to install the mod:
 1. Extract **Secronom-Zombies-master**.
@@ -19,3 +20,4 @@ Discord servers the maintainer/author of this mod actively participates.
 
 #### CDDA Modding Community
 * https://discord.gg/PuMsXMPwaU
+#### CDDA Dev Server
